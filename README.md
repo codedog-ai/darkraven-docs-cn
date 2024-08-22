@@ -33,4 +33,6 @@ Darkraven 是面向大语言模型（LLM）应用的可观测平台。它的目�
 
 ## 联系我们
 
-使用 GitHub [issues](https://github.com/codedog-ai/darkraven-community/issues) / [discussions](https://github.com/codedog-ai/darkraven-community/discussions) 反馈 Bug 或提出功能需求
+使用 GitHub [issues](https://github.com/codedog-ai/darkraven-community/issues) / [discussions](https://github.com/codedog-ai/darkraven-community/discussions) 反馈 Bug 或提出功能需求。
+
+其他联系方式: [支持](other/zhi-chi.md)
