@@ -11,3 +11,5 @@ description: This quick start shows how to submit llm call to darkraven.
 3. 创建 API Key
 
 ### 生成 LLM 调用链路并提交到 Darkraven
+
+使用 [Langsmith](ji-cheng/langsmith.md) 或 [Traceloop](ji-cheng/traceloop.md) 上报数据
