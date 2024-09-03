@@ -13,4 +13,4 @@
 ## 其他 <a href="#other" id="other"></a>
 
 * [支持](other/zhi-chi.md)
-* [数据安全与隐私](other/shu-ju-an-quan-yu-yin-si.md)
+* [隐私政策](https://docs.darkraven.ai/other/privacy-notice)
