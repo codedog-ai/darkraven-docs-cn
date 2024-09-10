@@ -9,6 +9,8 @@
 * [集成](ji-cheng/README.md)
   * [Langsmith](ji-cheng/langsmith.md)
   * [Traceloop](ji-cheng/traceloop.md)
+  * [Langfuse](ji-cheng/langfuse.md)
+  * [Dify.ai](ji-cheng/dify.ai.md)
 
 ## 其他 <a href="#other" id="other"></a>
 
